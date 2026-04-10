@@ -214,10 +214,3 @@ Pattern:
 1 hr → Learn concept
 1 hr → Practice questions
 1 hr → Mini problem/project
-⚡ PRO TIPS (VERY IMPORTANT FOR YOU)
-
-Since you already know JavaScript + Node.js, focus on:
-
-Memory (pointers = new concept)
-OOP deeper understanding
-STL (very powerful compared to JS arrays)

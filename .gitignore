@@ -1,0 +1,31 @@
+# 🔴 Compiled executables (Linux)
+*.out
+*.bin
+*.run
+
+# 🔴 Windows executables
+*.exe
+
+# 🔴 Object files
+*.o
+*.obj
+
+# 🔴 Static & dynamic libraries
+*.a
+*.so
+*.dll
+
+# 🔴 Build directories
+/build/
+/bin/
+/dist/
+
+# 🔴 Debug files
+*.log
+
+# 🔴 VS Code settings (optional)
+.vscode/
+
+# 🔴 OS files
+.DS_Store
+Thumbs.db
