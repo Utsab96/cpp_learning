@@ -1,0 +1,277 @@
+# 🚀 C++ PRACTICE QUESTIONS (BEGINNER → ADVANCED)
+
+---
+
+## 📁 01_basics
+
+### Easy
+
+1. Print "Hello World"
+2. Take two numbers and print sum, difference, multiplication
+3. Swap two numbers (with temp)
+4. Swap two numbers (without temp)
+5. Check even or odd
+
+### Medium
+
+6. Find largest of 3 numbers
+7. Convert Celsius to Fahrenheit
+8. Calculate simple interest
+9. Print ASCII value of character
+10. Check positive / negative / zero
+
+### Hard
+
+11. Build CLI calculator (+, -, *, /)
+12. Input validation (age > 18, salary > 0)
+
+---
+
+## 📁 02_control_flow
+
+### Easy
+
+1. Print numbers 1 to 100
+2. Print even numbers
+3. Sum of 1 to n
+
+### Medium
+
+4. Factorial (loop)
+5. Check prime number
+6. Reverse a number
+7. Count digits
+
+### Hard
+
+8. Fibonacci series
+9. Palindrome number
+10. Pattern printing (pyramid, reverse)
+
+---
+
+## 📁 03_functions
+
+### Easy
+
+1. Function to add two numbers
+2. Function to find max of 3 numbers
+
+### Medium
+
+3. Factorial using function
+4. Prime check using function
+5. Pass by value vs reference demo
+
+### Hard
+
+6. Recursive factorial
+7. Recursive Fibonacci
+8. Power using recursion
+9. Implement map() like function (JS concept)
+10. Implement reduce() like function
+
+---
+
+## 📁 04_arrays_strings
+
+### Easy
+
+1. Input and print array
+2. Find max and min
+
+### Medium
+
+3. Reverse array
+4. Check palindrome string
+5. Count vowels and consonants
+
+### Hard
+
+6. Second largest element
+7. Remove duplicates
+8. String compression (aaabb → a3b2)
+9. Matrix addition
+10. Matrix transpose
+
+---
+
+## 📁 05_pointers (VERY IMPORTANT)
+
+### Easy
+
+1. Print value using pointer
+2. Print address of variable
+3. Pointer basics (*, &)
+
+### Medium
+
+4. Swap using pointers
+5. Traverse array using pointer
+6. Pointer arithmetic
+
+### Hard
+
+7. Dynamic array using new/delete
+8. Pointer to pointer
+9. Dangling pointer example
+10. Memory leak example
+11. Stack vs Heap demonstration (code)
+12. Return pointer from function safely
+
+---
+
+## 📁 06_oop
+
+### Easy
+
+1. Create Student class
+2. Display student details
+
+### Medium
+
+3. Constructor and destructor
+4. Encapsulation example
+5. Bank Account class
+
+### Hard
+
+6. Inheritance (User → Admin/User)
+7. Polymorphism example
+8. Function overloading
+9. Operator overloading
+10. Virtual functions
+
+---
+
+## 📁 07_stl
+
+### Easy
+
+1. Vector: insert and print
+2. Iterate vector
+
+### Medium
+
+3. Sort vector
+4. Find element
+5. Use stack
+6. Use queue
+
+### Hard
+
+7. Frequency counter using map
+8. Remove duplicates using set
+9. Reverse string using stack
+10. Custom sort using lambda
+
+---
+
+## 📁 08_dsa
+
+### Easy
+
+1. Linear search
+2. Binary search
+
+### Medium
+
+3. Bubble sort
+4. Selection sort
+
+### Hard
+
+5. Linked list implementation
+6. Reverse linked list
+7. Stack using array
+8. Queue using array
+9. Tree traversal (inorder, preorder)
+
+---
+
+## 📁 09_advanced
+
+### Easy
+
+1. File read/write
+2. Exception handling (try-catch)
+
+### Medium
+
+3. Template function
+4. Lambda functions
+5. Smart pointers (unique_ptr, shared_ptr)
+
+### Hard
+
+6. Multithreading (basic thread)
+7. Producer-consumer problem
+8. Move semantics (std::move)
+9. RAII concept
+10. Custom allocator (advanced)
+
+---
+
+## 📁 functions (extra practice)
+
+1. Inline functions
+2. Default arguments
+3. Function overloading
+4. Function pointers
+5. Callback functions
+
+---
+
+## 📁 macro
+
+1. Define macro constants
+2. Function-like macros
+3. Macro pitfalls
+4. Conditional compilation (#ifdef)
+5. Replace macros with const/inline
+
+---
+
+## 📁 projects
+
+1. CLI Calculator
+2. To-Do CLI App
+3. Student Management System
+4. Banking System
+5. File-based database
+6. Log system (write logs to file)
+7. CLI User CRUD system (like backend)
+
+---
+
+## 📁 notes (theory topics)
+
+1. Stack vs Heap memory
+2. Pointer vs Reference
+3. Memory management (new/delete)
+4. Smart pointers (unique, shared, weak)
+5. Lambda expressions
+6. STL overview
+7. OOP principles (Encapsulation, Inheritance, Polymorphism)
+8. Compile vs Runtime
+9. Copy vs Move semantics
+
+---
+
+# 🎯 DAILY PLAN
+
+* Solve 5 questions/day
+* Push to GitHub
+* Revise pointers + STL frequently
+
+---
+
+# 🚀 FOCUS AREAS (FOR YOU)
+
+* Pointers (stack vs heap)
+* STL (vector, map)
+* OOP
+* Smart pointers
+* DSA basics
+
+---
