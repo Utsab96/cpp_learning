@@ -55,7 +55,7 @@
 ### Easy
 
 1. Function to add two numbers
-2. Function to find max of 3 numbers
+2. Function to check palindrome number
 
 ### Medium
 
